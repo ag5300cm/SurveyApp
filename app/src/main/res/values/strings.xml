@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Survey App</string>
+
+    <string name="question_text">Are the Vikings headed to the superbowl?</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="results_button">Results</string>
+    <string name="survey_results"></string>
+
+</resources>
